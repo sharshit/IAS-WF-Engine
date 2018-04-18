@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application>
+	<appInfo>
+		<id>1234</id>
+		<name>healthcare</name>
+	</appInfo>	
+	
+	<workflows>
+		<workflow>
+			<workflowId>workflow1</workflowId>
+			<workflowName>workflow1</workflowName>
+			<workflowFileName>wtf.wf</workflowFileName>
+		</workflow>
+	</workflows>
+	
+</application>

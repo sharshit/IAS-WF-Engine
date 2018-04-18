@@ -1,0 +1,2 @@
+sensorid1 - event1 - service1
+sensorid2 - ruleId1 - service2

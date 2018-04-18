@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application>
+	<appInfo>
+		<id>1234</id>
+		<name>healthcare</name>
+	</appInfo>
+	
+	<gateways>
+		<gateway>
+			<gatewayId>afew123</gatewayId>
+			<ip>192.168.1.101</ip>
+			<port>8080</port>
+			<sensors>
+				<sensorId>IP36154</sensorId>
+				<sensorId>IP36160</sensorId>
+				<sensorId>IP36158</sensorId>
+				<sensorId>IP36164</sensorId>
+				<sensorId>IP36166</sensorId>
+				<sensorId>IP36169</sensorId>
+				<sensorId>Honeywell</sensorId>
+			</sensors>					
+		</gateway>
+	</gateways>
+
+	<intermediateServers>
+		<intermediateServer>
+			<ip>127.0.0.1</ip>
+			<port>5000</port>
+		</intermediateServer>
+		<intermediateServer>
+			<ip>127.0.0.2</ip>
+			<port>6000</port>
+		</intermediateServer>
+		<intermediateServer>
+			<ip>127.0.0.3</ip>
+			<port>7000</port>
+		</intermediateServer>
+	</intermediateServers>
+	
+</application>

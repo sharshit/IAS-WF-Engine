@@ -1,0 +1,4 @@
+1) START <sensorId>-SERVICE-<serviceId> <sensorId>-SERVICE-<serviceId> 
+IF SERVICE-<serviceId> THEN WORKFLOW-<workflowId> ELSE <sensorId>-SERVICE-<serviceId> END
+
+2) START SERVICE-<serviceId> WORKFLOW-<workflowId> IF RULE-<ruleMID> THEN SERVICE-<serviceId> END

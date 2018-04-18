@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application>
+	<appInfo>
+		<id>1234</id>
+		<name>healthcare</name>
+	</appInfo>	
+	
+	<tasks>
+		<task>
+			<sensors>
+				<sensorId>1</sensorId>
+				<sensorId>2</sensorId>
+				<sensorId>3</sensorId>
+			</sensors>			
+			<eventId>345</eventId>
+			<serviceId>sfd2</serviceId>
+			<workflowId>serg34</workflowId>
+			<time>14:45</time>
+		</task>
+	</tasks>	
+	
+</application>
+
+

@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application>
+	<appInfo>
+		<id>1234</id>
+		<name>healthcare</name>
+	</appInfo>
+	
+	<apps>
+		<app>
+			<appName>Hospital Response App</appName>
+			<artifacts>
+				<artifactName>wf1.wf</artifactName>
+				<artifactName>wf2.wf</artifactName>
+				<artifactName>wf3.wf</artifactName>
+				<artifactName>service1.jar</artifactName>
+				<artifactName>streamingRule1.txt</artifactName>
+				<artifactName>cron1.xml</artifactName>
+				<artifactName>cron2.xml</artifactName>
+			</artifacts>
+			<events>
+				<event></event>
+				<event></event>
+				<event></event>
+			</events>
+				
+		</app>
+		<app>
+			<appName>Analytics App</appName>
+			<artifacts>
+				<artifactName>wf1.wf</artifactName>
+				<artifactName>wf2.wf</artifactName>
+				<artifactName>wf3.wf</artifactName>
+				<artifactName>service1.jar</artifactName>
+				<artifactName>service2.jar</artifactName>
+				<artifactName>cron1.xml</artifactName>
+				<artifactName>cron2.xml</artifactName>
+			</artifacts>
+			<events>
+				<event></event>
+				<event></event>
+				<event></event>
+			</events>
+		</app>
+	</apps>	
+	
+</application>
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

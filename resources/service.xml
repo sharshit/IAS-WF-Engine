@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application>
+	<appInfo>
+		<id>1234</id>
+		<name>healthcare</name>
+	</appInfo>
+	
+	<services>
+		<service>
+			<serviceId>1</serviceId>
+			<serviceName>Average</serviceName>
+			<serviceJarName>avg.jar</serviceJarName>
+			<dependencies>json.jar</dependencies>
+			<input>INTEGER#INTEGER</input>
+			<output>BOOLEAN</output>
+			<className>Average</className>
+			<methodName>run</methodName>
+		</service>
+	</services>
+	
+</application>
